@@ -1,0 +1,16 @@
+body {
+    background-image: url('imgs/fireflies-animate.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.time {
+    font-size: 0.6rem;
+}
+
+.div-custom {
+    font-size: 0.8rem;
+}
